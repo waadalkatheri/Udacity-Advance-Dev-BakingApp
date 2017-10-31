@@ -7,6 +7,16 @@
 
 #### This project shows the recipes and the preparation steps with their videos.
 
+---
+
+## Project Overview
+
+##### You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
+---
+## Why this Project?
+
+##### As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
+
 ##### This project shows the following functionalities:
 
 1-Recipes in RecyclerView in linear layout(vertical orientation) when the screen is portrait and a Gridview Orientation when the device is in landscape.
@@ -22,14 +32,4 @@
 6-There is a Idling resource test for the first loading of recipe from network and a click on an item of the RecyclerView.
 
 7-There is a full fledged UI Test generated using Espresso Test Recorder too.
-
----
-
-## Project Overview
-
-##### You will productionize an app, taking it from a functional state to a production-ready state. This will involve finding and handling error cases, adding accessibility features, allowing for localization, adding a widget, and adding a library.
----
-## Why this Project?
-
-##### As a working Android developer, you often have to create and implement apps where you are responsible for designing and planning the steps you need to take to create a production-ready app. Unlike Popular Movies where we gave you an implementation guide, it will be up to you to figure things out for the Baking App.
 
